@@ -1,0 +1,44 @@
+{
+    "product1": {
+      "name": "Brooks Ghost 16",
+      "description": "Running shoe",
+      "price": "150 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?user=admin&scene=scene_20250326_224248_453",
+      "image": "https://cdn.prod.website-files.com/66a0aa3d0894bc542a961950/66a252725a050dad3f0eb1b3_Team%20Image%206.jpg"
+    },
+    "product2": {
+      "name": "Lego Fiat 500",
+      "description": "Lego car",
+      "price": "80 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?user=admin&scene=scene_20250327_164217_060",
+      "image": ""
+    },
+    "product3": {
+      "name": "Santa's Doll",
+      "description": "Decoration",
+      "price": "45 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?user=admin&scene=scene_20250327_155018_783",
+      "image": ""
+    },
+    "product4": {
+      "name": "Lego Fiat 500",
+      "description": "Lego car",
+      "price": "80 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?user=admin&scene=scene_20250327_164217_060",
+      "image": ""
+    },
+    "product5": {
+      "name": "Santa's Doll",
+      "description": "Decoration",
+      "price": "45 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?user=admin&scene=scene_20250327_155018_783",
+      "image": ""
+    },
+    "product6": {
+      "name": "Brooks Ghost 16",
+      "description": "Running shoe",
+      "price": "150 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?user=admin&scene=scene_20250326_224248_453",
+      "image": ""
+    }
+}
