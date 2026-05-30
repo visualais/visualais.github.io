@@ -34,13 +34,13 @@
       "iframeUrl": "https://dashboard.visualais.io/viewer?u=ePvxdmd0ITS8xXoZYypFAnE8ua02&s=scene_20260415_095205_420",
       "image": ""
     },
-    "product12": {
-      "name": "Brafab Delia",
-      "description": "Aluminum garden chair",
+    "product6": {
+      "name": "Brooks Ghost 16",
+      "description": "Running shoe",
       "price": "150 €",
-      "iframeUrl": "https://dashboard.visualais.io/viewer?u=ePvxdmd0ITS8xXoZYypFAnE8ua02&s=scene_20260409_173817_547",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?u=1&s=scene_20250326_224248_453",
       "image": ""
-    },
+    }
     "product7": {
       "name": "Used Clarks",
       "description": "Used leather shoe",
@@ -76,13 +76,13 @@
       "iframeUrl": "https://dashboard.visualais.io/viewer?u=2&s=scene_20251008_090547_518",
       "image": ""
     },
-    "product6": {
-      "name": "Brooks Ghost 16",
-      "description": "Running shoe",
+    "product12": {
+      "name": "Brafab Delia",
+      "description": "Aluminum garden chair",
       "price": "150 €",
-      "iframeUrl": "https://dashboard.visualais.io/viewer?u=1&s=scene_20250326_224248_453",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?u=ePvxdmd0ITS8xXoZYypFAnE8ua02&s=scene_20260409_173817_547",
       "image": ""
-    }
+    },
     "product13": {
       "name": "KitchenAid Box",
       "description": "Packaging",
