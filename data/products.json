@@ -25,7 +25,7 @@
       "description": "Running shoe",
       "price": "150 €",
       "iframeUrl": "https://dashboard.visualais.io/viewer?u=5&s=scene_20251221_140218_400",
-      "image": ""
+      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/brooksghost17.jpg?raw=true"
     },
     "product5": {
       "name": "VANS Shoe",
@@ -39,7 +39,7 @@
       "description": "Running shoe",
       "price": "150 €",
       "iframeUrl": "https://dashboard.visualais.io/viewer?u=1&s=scene_20250326_224248_453",
-      "image": ""
+      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/brooksghost16.jpg?raw=true"
     },
     "product7": {
       "name": "Used Clarks",
