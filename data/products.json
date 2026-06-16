@@ -1,4 +1,11 @@
 {
+    "product1": {
+      "name": "New Balance 9060",
+      "description": "Sneaker",
+      "price": "150 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?u=ePvxdmd0ITS8xXoZYypFAnE8ua02&s=scene_20260421_142816_968",
+      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/N9060.png?raw=true"
+    },
     "product4": {
       "name": "Brooks Ghost 17",
       "description": "Running shoe",
@@ -26,13 +33,6 @@
       "price": "45 €",
       "iframeUrl": "https://dashboard.visualais.io/viewer?u=ePvxdmd0ITS8xXoZYypFAnE8ua02&s=scene_20260415_095205_420",
       "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/Vansred.png?raw=true"
-    },
-    "product1": {
-      "name": "New Balance 9060",
-      "description": "Sneaker",
-      "price": "150 €",
-      "iframeUrl": "https://dashboard.visualais.io/viewer?u=ePvxdmd0ITS8xXoZYypFAnE8ua02&s=scene_20260421_142816_968",
-      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/N9060.png?raw=true"
     },
     "product7": {
       "name": "Used Clarks",
