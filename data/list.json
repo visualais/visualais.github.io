@@ -1,0 +1,37 @@
+{
+    "product1": {
+      "name": "New Balance 9060",
+      "description": "Sneaker",
+      "price": "150 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?u=ePvxdmd0ITS8xXoZYypFAnE8ua02&s=scene_20260421_142816_968",
+      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/N9060.png?raw=true"
+    },
+    "product4": {
+      "name": "Brooks Ghost 17",
+      "description": "Running shoe",
+      "price": "150 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?u=5&s=scene_20251221_140218_400",
+      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/brooksghost17.jpg?raw=true"
+    },
+    "product6": {
+      "name": "Brooks Ghost 16",
+      "description": "Running shoe",
+      "price": "150 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?u=1&s=scene_20250326_224248_453",
+      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/brooksghost16.jpg?raw=true"
+    },
+    "product9": {
+      "name": "Sneakprint Shoe",
+      "description": "Sneaker",
+      "price": "150 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?u=2&s=scene_20251112_125936_657",
+      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/Sneakprint.png?raw=true"
+    },
+    "product5": {
+      "name": "VANS Shoe",
+      "description": "Sneaker",
+      "price": "45 €",
+      "iframeUrl": "https://dashboard.visualais.io/viewer?u=ePvxdmd0ITS8xXoZYypFAnE8ua02&s=scene_20260415_095205_420",
+      "image": "https://github.com/visualais/visualais.github.io/blob/main/data/thumbnails/Vansred.png?raw=true"
+    }
+}
